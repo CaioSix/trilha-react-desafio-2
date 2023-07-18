@@ -1,0 +1,13 @@
+.input{
+    border: 3px solid white;
+    border-radius: 20px;
+    margin: 20px;
+    height: 62px;
+    width: 80%;
+    padding: 0 20px;
+}
+
+.botao{
+    background: transparent;
+    border: 3;
+}

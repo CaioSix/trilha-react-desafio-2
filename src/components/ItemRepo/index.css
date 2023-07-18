@@ -1,0 +1,30 @@
+.ItemRepo{
+    width: 80%;
+    
+}
+
+.ItemRepo h3{
+    font-size: 32px;
+    color: #FAFAFA;
+}
+
+.ItemRepo p{
+    font-size: 16px;
+    color: #FAFAFA60;
+    margin-bottom: 20px;
+}
+
+.ItemRepo hr{
+    color: #fafafa60;
+    margin: 20px 0;
+
+}
+
+.remover{
+    color: red;
+    margin-top: 20px;
+}
+
+.ver{
+    
+}
